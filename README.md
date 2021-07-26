@@ -5,9 +5,8 @@ In this project, I want to combine artificial intelligence (AI) with human liter
 
 ## Architecture
 
-<center>
 ![avatar](https://github.com/johnny-xiao-li/Auto-Poem-Generator/blob/master/software_architecture.png)
-</center>
+<center>Software Architecture</center>
 
 ## Online Access
 This shows the location of the Twitter account and where the code is stored. 
