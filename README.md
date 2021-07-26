@@ -5,6 +5,8 @@ In this project, I want to combine artificial intelligence (AI) with human liter
 
 ## Online Access
 This shows the location of the Twitter account and where the code is stored. 
+
 Twitter: https://twitter.com/Test_2_Johnny
+
 Github: https://github.com/johnny-xiao-li/Auto-Poem-Generator
 
